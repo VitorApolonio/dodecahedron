@@ -7,7 +7,7 @@ Controls are as follows:
 - **Q & E:** spin around z-axis
 - **T:** toggle triangle outlines
 - **P:** switch between perspective and ortographic projection
-- **←, ↓, ↑, →:** walk around
+- **Arrow Keys:** walk around
 - **I, J, K, L:** look around (inverted)
 - **Mouse Wheel:** zoom in/out
 
