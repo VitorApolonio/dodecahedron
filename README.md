@@ -11,6 +11,6 @@ Controls are as follows:
 - **I, J, K, L:** look around (inverted)
 - **Mouse Wheel:** zoom in/out
 
-All of this, including movement, is done by manipulating space by multiplying coordinate vectors and matrices together.
+All of this, including movement, is done by manipulating space through multiplying coordinate vectors and matrices together.
 
 Only tested on linux; may work on windows idk
