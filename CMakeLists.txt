@@ -10,5 +10,3 @@ target_link_libraries(LearnOpenGL glfw)
 
 configure_file(src/vertex_s.glsl ./ COPYONLY)
 configure_file(src/frag_s.glsl ./ COPYONLY)
-configure_file(src/container.jpg ./ COPYONLY)
-configure_file(src/awesomeface.png ./ COPYONLY)
